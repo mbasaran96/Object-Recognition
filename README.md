@@ -25,7 +25,7 @@ Out of 984 images, 93 duplicates are included in the list, indicating that these
 # YOLOv8n
 
 To detect multiple objects in one image, the YOLOv8n algorithm is used, relying on fully connected convolutional layers. <br />
-The download and implementation of the model can be found on the following website: https://docs.ultralytics.com/de/models/yolov8/#citations-and-acknowledgements
+The documentation and implementation of the model can be found on the following website: https://docs.ultralytics.com/de/models/yolov8/#citations-and-acknowledgements
 
 - The *yolo_xray.yaml* file contains the path of the bounding box, which has three subfolders - Train, Val, and Test
 - The split for the three subfolders was manually performed to 50 / 25 / 25
