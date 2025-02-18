@@ -28,8 +28,9 @@ To detect multiple objects in one image, the YOLOv8n algorithm is used, relying 
 The documentation and implementation of the model can be found on the following website: https://docs.ultralytics.com/de/models/yolov8/#citations-and-acknowledgements
 
 - The *yolo_xray.yaml* file contains the path of the bounding box, which has three subfolders - Train, Val, and Test
-- The split for the three subfolders was manually performed to 50 / 25 / 25
+- The split of the 984 images for the three subfolders was manually performed to 50 / 25 / 25
 - The Classes/names of all diseases have also to be listed in the same file
+- Each Subfolder should contain the image (.png file) and its coordinates (.txt file) below
 
 
 
