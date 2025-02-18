@@ -21,6 +21,7 @@ The dataset can be downloaded via the following link: https://nihcc.app.box.com/
 The bounding box list (*BBox_List_2017.csv*) can also be downloaded from the link shared above. <br />
 It contains the associated labels with its coordinates for only 984 images. <br />
 Out of 984 images, 93 duplicates are included in the list, indicating that these have more than one pathology classified. <br />
+The *Bounding Box folder* uploaded in the repository does not contain all images split into its subfolders, as GitHub does not allow this size of images. It should only show visualize the structure of the subfolders and its **.png and .txt files**.
 
 # YOLOv8n
 
